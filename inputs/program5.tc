@@ -1,0 +1,8 @@
+int main()
+{
+    int  b, c=10;
+    double a;
+    a = 10.0;
+    b = 13;
+    print c+2;
+}

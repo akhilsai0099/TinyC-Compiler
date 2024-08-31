@@ -1,0 +1,7 @@
+int main()
+{
+    int a, b, c;
+    a = 28+2-3*4;
+    b=(3+4)*3;
+    print c;
+}
